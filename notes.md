@@ -1,1 +1,2 @@
 -Practicing git init, add, commit, push
+- Practiced branching and pull requests
